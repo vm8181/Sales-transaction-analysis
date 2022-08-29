@@ -17,8 +17,8 @@ You can find all the files in the Sales transaction analysis repository.
 
 **Tools Used in the project:**
 
-Microsoft Excel
+**_Microsoft Excel:_** Clean the data and extra columns as per requirement.
 
-Microsoft Power BI
+**_Microsoft Power BI:_** Extract the data from Excel into Power BI and load it into Power bi desktop after shaping the dataset.
 
-Power Pivot
+**_Power Pivot:_** Useed Power Pivot to create calculated measures using DAX funcions.
