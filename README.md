@@ -1,10 +1,8 @@
 # Sales-transaction-analysis
-**About:**
+## About:
 
 I have created a sales transaction analysis dashboard on power bi with different designs as per customer requirement.
-
 Also represented the visuals of analysis on microsoft excel.
-
 You can find all the files in the Sales transaction analysis repository.
 
 **Excel Dashboard:**
