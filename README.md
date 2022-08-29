@@ -13,7 +13,7 @@ You can find all the files in the Sales transaction analysis repository.
 
 ![image](https://user-images.githubusercontent.com/92555446/182911472-96c01ca8-6d92-4209-a9dd-5c88f9aeb0a1.png)
 
-**Tools Used in the project:**
+## Tools Used in the project:
 
 **_Microsoft Excel:_** Clean the data and extra columns as per requirement.
 
