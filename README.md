@@ -41,3 +41,7 @@ Power BI
 - Use and advantage of power pivot
 - Use of pivot charts 
 - Visualizatiion formatting in excel
+
+Reach me out:
+vm9455288519@gmail.com
+https://www.linkedin.com/in/vikashm1996/
