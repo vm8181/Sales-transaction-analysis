@@ -4,9 +4,6 @@
 It's a Power BI dasboard which shows the analysis of sales transactions done by customers while purchasing the products.
 Owner can identify the performance of sales and customer behaviour to the product through their acceptance and cancellations.
 
-## Data Source
-Excel Workbook
-
 ## Purpose
 
 Seller can take a better decision for the business by recognizing the reason easily that which and how many product is cancelled by customers and how it will impact the business.
@@ -37,6 +34,14 @@ Power BI
 - Visuals and graphs
 - Slicers
 
+## Data Source
+Excel Workbook
+
+## Tools&Technology used 	:hammer_and_wrench:
+- Microsoft Excel
+- Power Query Edtior
+- Power BI desktop
+- Data Analysis Expressions
 
 ## Lessons Learned
 
