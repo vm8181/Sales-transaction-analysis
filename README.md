@@ -42,6 +42,6 @@ Power BI
 - Use of pivot charts 
 - Visualizatiion formatting in excel
 
-Reach me out:
+_**Reach me out:**_
 - vm9455288519@gmail.com
 - https://www.linkedin.com/in/vikashm1996/
