@@ -24,7 +24,7 @@ MS-Excel
 - Logical Functions
 - Table Formatting
 
-Power BI
+Power BI https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Icon-Obsolete2020Yellow.png
 - Power Query Editor
 - Data analysis expression
 - Measures
@@ -43,7 +43,7 @@ Excel Workbook
 - Power BI desktop
 - Data Analysis Expressions
 
-## Lessons Learned
+## Lessons Learned :open_book:
 
 - I have learnt to create dashboards using Excel
 - Use and advantage of power pivot
