@@ -1,5 +1,7 @@
 
 # Sales Transaction Analysis
+![image](https://user-images.githubusercontent.com/92555446/187866500-b19da81f-4d63-459b-878e-37181e8dae57.png)
+
 
 It's a Power BI dasboard which shows the analysis of sales transactions done by customers while purchasing the products.
 Owner can identify the performance of sales and customer behaviour to the product through their acceptance and cancellations.
@@ -24,7 +26,7 @@ MS-Excel
 - Logical Functions
 - Table Formatting
 
-Power BI https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Icon-Obsolete2020Yellow.png
+Power BI 
 - Power Query Editor
 - Data analysis expression
 - Measures
