@@ -2,7 +2,11 @@
 ## About:
 
 I have created a sales transaction analysis dashboard on power bi with different designs as per customer requirement.
-Also represented the visuals of analysis on microsoft excel.
+Also represented the visuals of analysis on microsoft excel. 
+
+## Purpose:
+Analysis of sales transactions by different fields and categories so that we can identify the performance of sales.
+
 You can find all the files in the Sales transaction analysis repository.
 
 **Excel Dashboard:**
