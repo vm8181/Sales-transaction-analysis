@@ -43,5 +43,5 @@ Power BI
 - Visualizatiion formatting in excel
 
 Reach me out:
-vm9455288519@gmail.com
-https://www.linkedin.com/in/vikashm1996/
+- vm9455288519@gmail.com
+- https://www.linkedin.com/in/vikashm1996/
