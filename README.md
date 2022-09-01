@@ -7,8 +7,6 @@ Also represented the visuals of analysis on microsoft excel.
 ## Purpose:
 Analysis of sales transactions by different fields and categories so that we can identify the performance of sales.
 
-You can find all the files in the Sales transaction analysis repository.
-
 **Excel Dashboard:**
 
 ![image](https://user-images.githubusercontent.com/92555446/182907820-c97f471f-ffd2-4a7b-8173-30ac555b379b.png)
